@@ -1,0 +1,24 @@
+.table-container-item {
+    width: 70vw;
+    height: 50vh;
+    margin-bottom: 200px;
+    padding : 0;
+ }
+ .table-item-name{
+    text-align:left;
+ }
+  .wrapper-btn--add{
+     display: flex;
+     margin-bottom: 20px;
+     justify-content: space-between;
+    
+  }
+  .btn-item--pagination {
+     display: flex;
+     justify-content: flex-end;
+     margin-top: 20px;
+  }
+  .input-search {
+    width: 305px;
+  }
+ 
